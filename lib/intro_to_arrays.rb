@@ -2,6 +2,7 @@ def instantiate_new_array
  array = []
  end
  
+<<<<<<< HEAD
 def array_with_two_elements
   array =[1, 5]
 end
@@ -40,3 +41,6 @@ end
 
 
 
+=======
+def instantiate_new_array
+>>>>>>> 19178503b3b374d064f3fdfdb20da57f2dd84d3a
